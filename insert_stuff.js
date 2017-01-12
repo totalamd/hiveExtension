@@ -4,6 +4,9 @@
  * -[ ] option: not remove messages
  * -[ ] option: not render Todo and Redo lists
  * -[ ] option: not render table
+ * -[ ] options without Save button
+ * -[ ] open in current tab if it's blank
+ * -[ ] able to collapse done modules
  */
 
 // Get the main div of the page and clear it
